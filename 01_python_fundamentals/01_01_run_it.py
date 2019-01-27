@@ -1,6 +1,6 @@
 '''
 1 - Write and execute a script that prints "hello world" to the console.
-
+print("hello world")
 2 - Using the interpreter, print "hello world!" to the console.
 
 3 - Explore the interpreter.
@@ -12,5 +12,7 @@
         press q to exit.
 	- Use the interpreter to perform simple math.
 	- Calculate how many seconds are in a year.
+	31536000 (assuming 365 days in a year)
+365*24*60*60
 
 '''
