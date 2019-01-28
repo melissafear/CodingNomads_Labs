@@ -10,3 +10,8 @@ Output should read like - "81.32 degrees fahrenheit = 27.4 degrees celsius"
 
 
 '''
+
+tempF = int(input("Enter a temp in Fahrenheit "))
+tempC = (tempF - 32) * (5 / 9)
+
+print(str(tempF)+" degrees fahrenheit = " + str(tempC) + " degrees celcius")
