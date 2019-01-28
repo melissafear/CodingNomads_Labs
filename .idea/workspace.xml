@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6438a0a9-6b03-4a9e-bee3-6c0930c7a43b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_basic_datatypes/02_01_cylinder.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_basic_datatypes/02_01_cylinder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,24 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_python_fundamentals/01_06_hello5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_python_fundamentals/01_07_area_perimeter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01_python_fundamentals/01_helloworld.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -65,19 +49,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_04_temp.py">
+        <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_05_convert.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+            <state relative-caret-position="224">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14">
+              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_05_convert.py">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="195">
+              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -101,8 +121,13 @@
         <option value="$PROJECT_DIR$/02_basic_datatypes/02_02_days_seconds.py" />
         <option value="$PROJECT_DIR$/02_basic_datatypes/02_04_temp.py" />
         <option value="$PROJECT_DIR$/02_basic_datatypes/02_03_runner.py" />
-        <option value="$PROJECT_DIR$/02_basic_datatypes/02_06_invest.py" />
         <option value="$PROJECT_DIR$/02_basic_datatypes/02_05_convert.py" />
+        <option value="$PROJECT_DIR$/02_basic_datatypes/02_06_invest.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py" />
       </list>
     </option>
   </component>
@@ -131,6 +156,17 @@
               <item name="labs" type="462c0819:PsiDirectoryNode" />
               <item name="02_basic_datatypes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="03_more_datatypes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="03_more_datatypes" type="462c0819:PsiDirectoryNode" />
+              <item name="1_strings" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -149,8 +185,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.02_05_convert">
-    <configuration name="02_02_days_seconds" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.04_05_slicing">
+    <configuration name="04_01_replace" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_basic_datatypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/1_strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_basic_datatypes/02_02_days_seconds.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_03_runner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_02_occurrence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,11 +215,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_basic_datatypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/1_strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_basic_datatypes/02_03_runner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_04_temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_03_vowel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,11 +236,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_basic_datatypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/1_strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_basic_datatypes/02_04_temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_05_convert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_04_most_characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,11 +257,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_basic_datatypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/1_strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_basic_datatypes/02_05_convert.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_06_invest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_05_slicing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,11 +278,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_basic_datatypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/1_strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_basic_datatypes/02_06_invest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.02_05_convert" />
-        <item itemvalue="Python.02_06_invest" />
-        <item itemvalue="Python.02_03_runner" />
-        <item itemvalue="Python.02_04_temp" />
-        <item itemvalue="Python.02_02_days_seconds" />
+        <item itemvalue="Python.04_05_slicing" />
+        <item itemvalue="Python.04_04_most_characters" />
+        <item itemvalue="Python.04_03_vowel" />
+        <item itemvalue="Python.04_02_occurrence" />
+        <item itemvalue="Python.04_01_replace" />
       </list>
     </recent_temporary>
   </component>
@@ -289,17 +325,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="765" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13633068" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20014504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.32986626" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.39821693" />
+      <window_info anchor="bottom" id="Terminal" weight="0.39821693" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32986626" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32986626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -387,10 +424,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_03_runner.py">
+    <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_06_invest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="270">
+          <caret line="18" column="86" selection-start-line="18" selection-start-column="86" selection-end-line="18" selection-end-column="86" />
         </state>
       </provider>
     </entry>
@@ -401,17 +438,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_06_invest.py">
+    <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_03_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_05_convert.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="224">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
         </state>
       </provider>
     </entry>
