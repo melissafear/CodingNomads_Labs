@@ -2,11 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6438a0a9-6b03-4a9e-bee3-6c0930c7a43b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/scratchpad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_basic_datatypes/02_03_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_basic_datatypes/02_03_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_basic_datatypes/02_04_temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_basic_datatypes/02_04_temp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_06_product_largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_06_product_largest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_07_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_07_duplicates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_08_reorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_08_reorder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_09_flatten.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_09_flatten.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_10_unique.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_10_unique.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_11_split.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_11_split.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_12_list_to_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_12_list_to_tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_13_tuple_to_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_13_tuple_to_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_14_list_of_tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_14_list_of_tuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_15_tuple_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_15_tuple_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_16_first_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_16_first_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_17_occurrence.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_17_occurrence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_19_dict_tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_19_dict_tuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_01_divisible.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_01_divisible.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_02_month.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_02_month.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_03_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_03_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_04_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_04_prime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_05_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_05_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_06_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_06_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_07_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_07_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_08_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_08_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_09_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_09_squares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_functions/05_01_tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_functions/05_01_tasks.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,88 +43,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_19_dict_tuples.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_python_fundamentals/01_helloworld.py">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_18_common.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_python_fundamentals/01_01_run_it.py">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_17_occurrence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_02_days_seconds.py">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_16_first_dict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/3_tuples/04_15_tuple_sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="62" column="5" lean-forward="true" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/3_tuples/04_14_list_of_tuples.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/3_tuples/04_13_tuple_to_list.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="80" />
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_03_runner.py">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/3_tuples/04_12_list_to_tuple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/2_lists/04_10_unique.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_05_convert.py">
+        <entry file="file://$PROJECT_DIR$/03_more_datatypes/2_lists/04_11_split.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-14">
-              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="382">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -119,23 +146,46 @@
         <option value="$PROJECT_DIR$/01_python_fundamentals/01_07_area_perimeter.py" />
         <option value="$PROJECT_DIR$/02_basic_datatypes/02_01_cylinder.py" />
         <option value="$PROJECT_DIR$/02_basic_datatypes/02_02_days_seconds.py" />
-        <option value="$PROJECT_DIR$/02_basic_datatypes/02_04_temp.py" />
-        <option value="$PROJECT_DIR$/02_basic_datatypes/02_03_runner.py" />
         <option value="$PROJECT_DIR$/02_basic_datatypes/02_05_convert.py" />
         <option value="$PROJECT_DIR$/02_basic_datatypes/02_06_invest.py" />
-        <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py" />
-        <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py" />
-        <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py" />
-        <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py" />
+        <option value="$PROJECT_DIR$/02_basic_datatypes/02_03_runner.py" />
+        <option value="$PROJECT_DIR$/02_basic_datatypes/02_04_temp.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/2_lists/04_10_unique.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_13_tuple_to_list.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_12_list_to_tuple.py" />
+        <option value="$PROJECT_DIR$/04_conditionals_loops/03_01_divisible.py" />
+        <option value="$PROJECT_DIR$/04_conditionals_loops/03_02_month.py" />
+        <option value="$PROJECT_DIR$/04_conditionals_loops/03_04_prime.py" />
+        <option value="$PROJECT_DIR$/04_conditionals_loops/03_03_for.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_17_occurrence.py" />
+        <option value="$PROJECT_DIR$/04_conditionals_loops/03_05_sum.py" />
+        <option value="$PROJECT_DIR$/04_conditionals_loops/03_09_squares.py" />
+        <option value="$PROJECT_DIR$/04_conditionals_loops/03_07_search.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_16_first_dict.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_19_dict_tuples.py" />
         <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py" />
+        <option value="$PROJECT_DIR$/05_functions/05_01_tasks.py" />
+        <option value="$PROJECT_DIR$/scratchpad.py" />
+        <option value="$PROJECT_DIR$/04_conditionals_loops/03_08_table.py" />
+        <option value="$PROJECT_DIR$/04_conditionals_loops/03_06_while.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/2_lists/04_06_product_largest.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/2_lists/04_09_flatten.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/2_lists/04_08_reorder.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/2_lists/04_07_duplicates.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/2_lists/04_11_split.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_14_list_of_tuples.py" />
+        <option value="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_15_tuple_sort.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="765" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -154,24 +204,27 @@
             <path>
               <item name="labs" type="b2602c69:ProjectViewProjectNode" />
               <item name="labs" type="462c0819:PsiDirectoryNode" />
-              <item name="02_basic_datatypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="labs" type="462c0819:PsiDirectoryNode" />
               <item name="03_more_datatypes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="labs" type="b2602c69:ProjectViewProjectNode" />
               <item name="labs" type="462c0819:PsiDirectoryNode" />
               <item name="03_more_datatypes" type="462c0819:PsiDirectoryNode" />
-              <item name="1_strings" type="462c0819:PsiDirectoryNode" />
+              <item name="4_dictionaries" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -185,8 +238,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.04_05_slicing">
-    <configuration name="04_01_replace" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.04_15_tuple_sort">
+    <configuration name="04_08_reorder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,11 +247,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/1_strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/2_lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/2_lists/04_08_reorder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_02_occurrence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_09_flatten" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,11 +268,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/1_strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/2_lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/2_lists/04_09_flatten.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,7 +281,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_03_vowel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_11_split" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,11 +289,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/1_strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/2_lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/2_lists/04_11_split.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +302,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_04_most_characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_14_list_of_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,11 +310,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/1_strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/3_tuples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_14_list_of_tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +323,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_05_slicing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_15_tuple_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,11 +331,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/1_strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_more_datatypes/3_tuples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_15_tuple_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04_05_slicing" />
-        <item itemvalue="Python.04_04_most_characters" />
-        <item itemvalue="Python.04_03_vowel" />
-        <item itemvalue="Python.04_02_occurrence" />
-        <item itemvalue="Python.04_01_replace" />
+        <item itemvalue="Python.04_15_tuple_sort" />
+        <item itemvalue="Python.04_14_list_of_tuples" />
+        <item itemvalue="Python.04_11_split" />
+        <item itemvalue="Python.04_09_flatten" />
+        <item itemvalue="Python.04_08_reorder" />
       </list>
     </recent_temporary>
   </component>
@@ -324,27 +377,46 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="765" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20014504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19698173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32986626" />
-      <window_info anchor="bottom" id="Terminal" weight="0.39821693" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32986626" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29781023" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39854014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32986626" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.39821693" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.5284672" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1938046" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5109489" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39854014" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32986626" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.39821693" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.5284672" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -353,6 +425,11 @@
           <url>file://$PROJECT_DIR$/02_basic_datatypes/02_05_convert.py</url>
           <line>23</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_more_datatypes/2_lists/04_09_flatten.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -410,13 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_01_cylinder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_02_days_seconds.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -431,59 +501,248 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_01_cylinder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_conditionals_loops/03_02_month.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_conditionals_loops/03_01_divisible.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_functions/05_02_rps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_functions/05_01_tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch" />
+    <entry file="file://$PROJECT_DIR$/scratchpad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_conditionals_loops/03_08_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="52" column="10" lean-forward="true" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_04_temp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_03_runner.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_conditionals_loops/03_06_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_conditionals_loops/03_05_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_conditionals_loops/03_04_prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_conditionals_loops/03_03_for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_conditionals_loops/03_09_squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_conditionals_loops/03_07_search.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        <state relative-caret-position="15">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_05_convert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="42" />
+        <state relative-caret-position="375">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/2_lists/04_06_product_largest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_basic_datatypes/02_05_convert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/2_lists/04_08_reorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/2_lists/04_09_flatten.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/2_lists/04_07_duplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/2_lists/04_10_unique.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/2_lists/04_11_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/3_tuples/04_14_list_of_tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/3_tuples/04_13_tuple_to_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/3_tuples/04_12_list_to_tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/3_tuples/04_15_tuple_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="62" column="5" lean-forward="true" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_16_first_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_17_occurrence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_18_common.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_19_dict_tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

@@ -15,5 +15,6 @@ length = len(name)
 newName = str(name[1:length]) + str(firstLetter)  +"ay"
 
 
-print(newName.capitalize())
+print("Your piglatin name is " + newName.capitalize())
 
+#done

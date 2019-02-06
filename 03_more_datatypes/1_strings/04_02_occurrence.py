@@ -12,3 +12,5 @@ words= input("Please enter some words: ")
 letter= input("Please enter a letter: ")
 
 print("index of letter '"+ str(letter) +"' is " + str(words.find(letter)))
+
+#done

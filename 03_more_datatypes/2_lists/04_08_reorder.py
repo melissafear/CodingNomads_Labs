@@ -6,4 +6,16 @@ Then print out the 9th, 7th, 5th, 3rd, and 1st.
 Example input: 1,2,3,4,5,6,7,8,9,10
 Example output: 2,4,6,8,10,9,7,5,3,1
 
+tip: better way is with a loop, modulus?
+
 '''
+
+numbers = input("Enter 10 numbers with a comma between them ")
+numbers = numbers.split(",")
+#print(type(numbers))
+#print(numbers)
+print(f"{numbers[1]}, {numbers[3]}, {numbers[5]}, {numbers[7]}, {numbers[9]}, {numbers[8]}, \
+{numbers[6]}, {numbers[4]}, {numbers[2]}, {numbers[0]}")
+
+
+#Done??

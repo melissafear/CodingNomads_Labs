@@ -14,3 +14,5 @@ Write a script that completes the following tasks.
 # calls a function that determines whether the number is divisible by 4 or 7 exclusively
 
 # print the results
+
+

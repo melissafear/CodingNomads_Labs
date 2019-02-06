@@ -5,11 +5,11 @@ What is his/her average speed in kilometers per hour? (Tip: 1 mile = 1.6 km)
 
 '''
 
-kmRun = 10*1.6
-totalSecsInHr= 60*60
-SecsRun= 30*60+30
+kmRun = 10 * 1.6
+totalSecsInHr= 60 * 60
+secs_run= 30 * 60 + 30
 
-percentOfHourRun = SecsRun/totalSecsInHr
+percentOfHourRun = secs_run / totalSecsInHr
 
 speed = kmRun/percentOfHourRun
 
