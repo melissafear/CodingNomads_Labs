@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6438a0a9-6b03-4a9e-bee3-6c0930c7a43b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scratchpad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_basic_datatypes/02_03_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_basic_datatypes/02_03_runner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_basic_datatypes/02_04_temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_basic_datatypes/02_04_temp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_01_replace.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_02_occurrence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_03_vowel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_04_most_characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/1_strings/04_05_slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_06_product_largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_06_product_largest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_07_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_07_duplicates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_08_reorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_08_reorder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_09_flatten.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_09_flatten.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_10_unique.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_10_unique.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_11_split.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/2_lists/04_11_split.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_12_list_to_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_12_list_to_tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_13_tuple_to_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_13_tuple_to_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_14_list_of_tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_14_list_of_tuples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_15_tuple_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/3_tuples/04_15_tuple_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_16_first_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_16_first_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_17_occurrence.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_17_occurrence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_19_dict_tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_19_dict_tuples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_01_divisible.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_01_divisible.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_02_month.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_02_month.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_03_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_03_for.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_04_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_04_prime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_05_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_05_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_06_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_06_while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_07_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_07_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_08_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_08_table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_conditionals_loops/03_09_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_conditionals_loops/03_09_squares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_functions/05_01_tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_functions/05_01_tasks.py" afterDir="false" />
-    </list>
+    <list default="true" id="6438a0a9-6b03-4a9e-bee3-6c0930c7a43b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +10,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_19_dict_tuples.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -66,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_16_first_dict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="251">
+              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -211,6 +178,11 @@
               <item name="labs" type="462c0819:PsiDirectoryNode" />
               <item name="03_more_datatypes" type="462c0819:PsiDirectoryNode" />
               <item name="4_dictionaries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="04_conditionals_loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -722,10 +694,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_16_first_dict.py">
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_18_common.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_19_dict_tuples.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -736,13 +711,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_18_common.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_19_dict_tuples.py">
+    <entry file="file://$PROJECT_DIR$/03_more_datatypes/4_dictionaries/04_16_first_dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="251">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
         </state>
       </provider>
     </entry>
