@@ -10,7 +10,7 @@ sorted_list = [('second_element', 2), ('first_element', 4), ('third_element', 6)
 # dig into the tuples to get the number value
 # compare the number values
 # sort the number values
-
+'''
 #TAKE 1!
 
 unsorted_list = [('first_element', 11), ('second_element', 20), ('third_element', 6)]
@@ -43,7 +43,7 @@ if c < a and c < b:
 
 print(sorted_list)
 
-
+'''
 
 # TAKE 2! (from here https://www.afternerd.com/blog/python-sort-list/#sort-tuples)
 
