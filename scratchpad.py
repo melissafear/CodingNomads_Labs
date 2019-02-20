@@ -1,58 +1,40 @@
+class Ingredient:
+  """Models an ingredient including its name and amount."""
+  def __init__(self, name, amount):
+    self.name = name
+    self.amount = amount
 
-# function to get hand based on number
-# the function should take in a number and return the string representation of the hand
+  def __str__(self):
+    return f"There are {self.amount} of {self.name}."
 
-def get_hand(hand):
-    # 0 = scissor, 1 = rock, 2 = paper
-    if hand == 0:
-        hand = "scissor"
-    elif hand == 1:
-        hand = "rock"
-    elif hand == 2:
-        hand = "paper"
-    return hand
+  def use(self, use_amount):
+    """Reduces the amount of ingredient available."""
+    self.amount -= use_amount
 
-# function should take in two hands and return a string "You won!" or "You lost :(" or "You tied!"
-def determine_winner(computer, player):
-    if player == "scissor" and computer == "paper" \
-            or player == "rock" and computer == "scissor" \
-            or player == "paper" and computer == "rock":
-        winner = "You won! Winner winner chicken dinner"
-
-    elif user_number == "scissor" and computer == "rock" \
-        or player == "rock" and computer == "paper" \
-        or player == "paper" and computer == "scissor":
-        winner = "Computer won, better luck next time :("
-
-    elif player == "scissor" and computer == "scissor" \
-        or player == "rock" and computer == "rock" \
-        or player == "paper" and computer == "paper":
-        winner = "No-one won, it's a tie!"
-
-    return winner
+  def expire(self):
+    """Expires the ingredient item."""
+    print(f"whoops, these {self.name} went bad...")
+    self.name = "expired " + self.name
 
 
-import random
-
-# get user number
-user_number = int(input("Please enter a number from 0-2 - 0 = scissor, 1 = rock, 2 = paper "))
+# INHERITANCE: building a subclass called Spice
 
 
-# get computer number
-computer_number = random.randint(0, 2)
+class Spice(Ingredient):
+  """Models an ingredient including its name, amount, and taste."""
+  # customize the __init__() method
+  def __init__(self, name, amount, taste):
+    super().__init__(name, amount)
+    self.taste = taste
 
+  # create a custom method grind()
+  def grind(self):
+    print(f"you have now {self.amount} of ground {self.name}")
 
-# translate numbers to strings
-
-user_hand = get_hand(user_number)
-computer_hand = get_hand(computer_number)
-
-
-# compute winner
-
-winner_is = determine_winner(computer_hand, user_hand)
-
-# print winner and hands played
-print(f"You played {user_hand}")
-print(f"Computer played {computer_hand}")
-print(winner_is)
+  # override the expire() method
+  def expire(self):
+    if self.name == 'salt':
+      print(f"{self.name} never expires! ask the sea!")
+    else:
+      print(f"this {self.name} went bad...")
+      self.name = f"expired {self.name}"

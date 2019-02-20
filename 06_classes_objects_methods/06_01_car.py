@@ -9,3 +9,35 @@ Create at least two different objects of this Car class and demonstrate
 changing the objects attributes.
 
 '''
+class Car():
+    """making a car"""
+
+    def __init__(self, desc, model, year, maxspeed):
+        """initializes car attributes"""
+
+        self.model = model
+        self.year = year
+        self.desc = desc
+        self.maxspeed = maxspeed
+
+
+    def speedup(self, increment_by):
+        self.maxspeed += increment_by
+
+    def car_details(self):
+        print(f"My {self.desc} was a  {self.model}, year {self.year} and it goes {self.maxspeed} km p/h.")
+
+
+my_first_car = Car("first car", "Nissan Pulsar", 1986, 120)
+my_lastest_car = Car("last car", "Subaru Forrester", 2009, 160)
+
+
+my_lastest_car.speedup(5)
+my_lastest_car.speedup(50)
+
+
+my_first_car.car_details()
+my_lastest_car.car_details()
+
+
+

@@ -1,0 +1,31 @@
+class Car():
+    def __init__(self, model, year, speed=0):
+        self.model = model
+        self.year = year
+        self.speed = speed
+
+    def accelerate(self):
+        self.speed += 5
+
+    def brake(self):
+        if self.speed <5:
+            pass
+        else:
+            self.speed  -= 5
+            return 2+3
+
+    def honk_horn(self):
+        print(f"{self.model} goes 'beep beep'")
+
+
+my_car = Car("Rust bucket", 1987)
+my_car.honk_horn()
+
+# my_car = Car("VW", 1977, 20)
+#
+# my_car.accelerate()
+# my_car.brake()
+#
+# print(my_car.speed)
+#
+# my_car.honk_horn()
